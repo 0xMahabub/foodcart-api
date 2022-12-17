@@ -1,1 +1,1 @@
-# arotefy-api
+# Arotefy - API Server
